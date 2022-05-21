@@ -1,8 +1,8 @@
 # Coding
 Basic Coding Assignment
 
-Songs Playlist:
+1.Songs Playlist:
 Create a playlist of music videos from utube
 
-Assignment on Whatsapp text:
+2.Assignment on Whatsapp text:
 Create some functions to find out information about the extracted text
