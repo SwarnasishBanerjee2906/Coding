@@ -20,3 +20,7 @@ Compare Virat Kohli and Sachin Tendulkar with respect to their Total Runs, Strik
 5.Sachin Tendulkar Vs Virat Kohli; Case Study (In ODI) in Python: 
 
 Compare the visualisation of Virat Kohli and Sachin Tendulkar with respect to their Total Runs, Strike Rate and Runs Per Innings in the aspects of All time performance,Run Chasing and in winning contribution. 
+
+6.Prediction of  Probable India's Playing 11(World Cup 2023) in Python:
+
+Using Exploratory Dtat Anlysis find the probable India's playing 11 (In 2023 World Cup) by extracting each player's performance with respect to different aspect.
